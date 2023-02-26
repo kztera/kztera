@@ -11,7 +11,7 @@ My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Compute
 ## <img src="https://raw.githubusercontent.com/kztera/kztera/main/nyan.gif" width=50px> About me
 
 -  👨‍💻 **Full name:** Nguyen Huu Khoa
--  🎂 **Birthday:** xx/xx/2003
+-  🎂 **Birthday:** xx . xx . 2003
 -  🌏 **Nationality:** Vietnamese
 -  🏫 **University:** Thang Long University
 
