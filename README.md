@@ -31,28 +31,23 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 
 ### More information about me
 
-<img align="right" display="inline-block" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=5&width=400">
+<img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=5&width=600">
 
--  ⚡ I am quite interested in playing **Genshin Impact** (_UID：837979005_) and **watching anime** (especially Oregairu). Contact me if you want to play together <img src="https://raw.githubusercontent.com/kr4zym3nvn/kr4zym3nvn/master/images/Icon_Emoji_085_Yanfei_No_problem.webp" width="50"/>.
+-  ⚡ I am quite interested in playing **Genshin Impact** (_UID：837979005_) and **watching anime** (especially Oregairu). Contact me if you want to play together <img src="https://raw.githubusercontent.com/kr4zym3nvn/kr4zym3nvn/master/images/Icon_Emoji_085_Yanfei_No_problem.webp" width="50"/>. Here is my [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=158107559) profile.
 -  💬 Ask me about anything in tab [Discussions](https://github.com/kztera/kztera/discussions)
 -  🎶 I love listening to music so much. I can do it all day. My favorite Banđs are Vasire, boy pablo, Wallows, Men I Trust, Dayglow, Fiji Blue, Far Caspian, PUBLIC and many more. It's hard to imagine one day I'll hear them sing live in real life xD. You can listen some of recent played songs below.
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=5&width=400)
+## 💻 Gears I use
 
-![Profile views](https://gpvc.arturio.dev/kztera)
+-  **Laptop**: Lenovo Thinkbook 14 G3 ACL (Ryzen 5 5600U, 16GB RAM, 512GB SSD)
+-  **Phone**: Xiaomi Redmi Note 10S (8GB RAM, 128GB ROM)
+-  **Keyboard**: Nexttime 75 (Akko Jelly White Switch)
+-  **Mouse**: I wish I had one 😭
+-  **Monitor**: Samsung SyncMaster E1720NRX 17″ (1600×900) (I know it's small but it's all I can afford (╯‵□′)╯︵┻━┻)
 
-<!--
+## Social Networks
 
-**kztera/kztera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://dsc.bio/JetEra"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://open.spotify.com/user/31v5dhuuhzkkvv4cqimaphde2x6i">
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</div>
