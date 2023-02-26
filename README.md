@@ -27,7 +27,7 @@ My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Compute
 
 ## Plans
 
-<img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=7&width=400">
+<a href="https://open.spotify.com/playlist/6hyAjJOdQf5xbhQl3a3Kff?si=dc332f50a11744ab"><img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=7&width=400"></a>
 Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I can develop app on all platforms (Android, iOS, Web) in the future.
 
 ### <img src="https://raw.githubusercontent.com/kztera/kztera/main/cat_fly.gif" width="50px"> More information about me
