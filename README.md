@@ -31,7 +31,7 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 
 ### More information about me
 
-<img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=5&width=600">
+<img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=6&width=400">
 
 -  ⚡ I am quite interested in playing **Genshin Impact** (_UID：837979005_) and **watching anime** (especially Oregairu). Contact me if you want to play together <img src="https://raw.githubusercontent.com/kr4zym3nvn/kr4zym3nvn/master/images/Icon_Emoji_085_Yanfei_No_problem.webp" width="50"/>. Here is my [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=158107559) profile.
 -  💬 Ask me about anything in tab [Discussions](https://github.com/kztera/kztera/discussions)
@@ -51,3 +51,14 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 <a href="https://dsc.bio/JetEra"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://open.spotify.com/user/31v5dhuuhzkkvv4cqimaphde2x6i">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
+
+## How about some stats?
+
+![Profile views](https://gpvc.arturio.dev/kztera)
+
+<p><i>I hope to be able to update this soon when things are more ^^</i></p>
+<!-- <div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kztera&theme=radical" alt="kztera's Streak Stats" width="400px" display="inline-block">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kztera&layout=compact&theme=radical" alt="Top Langs" width="400px" display="inline-block">
+</div> -->
