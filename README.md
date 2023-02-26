@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi everyone (^^ゞ
+
+<img src="bg.jpg">
+
+![Profile views](https://gpvc.arturio.dev/kztera)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=5&width=400)
 
 <!--
+
 **kztera/kztera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
