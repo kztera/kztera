@@ -27,11 +27,10 @@ My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Compute
 
 ## Plans
 
+<img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=7&width=400">
 Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I can develop app on all platforms (Android, iOS, Web) in the future.
 
-### More information about me
-
-<img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=6&width=400">
+### <img src="https://raw.githubusercontent.com/kztera/kztera/main/cat_fly.gif" width="50px"> More information about me
 
 -  ⚡ I am quite interested in playing **Genshin Impact** (_UID：837979005_) and **watching anime** (especially Oregairu). Contact me if you want to play together <img src="https://raw.githubusercontent.com/kr4zym3nvn/kr4zym3nvn/master/images/Icon_Emoji_085_Yanfei_No_problem.webp" width="50"/>. Here is my [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=158107559) profile.
 -  💬 Ask me about anything in tab [Discussions](https://github.com/kztera/kztera/discussions)
@@ -58,7 +57,11 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 
 <p><i>I hope to be able to update this soon when things are more ^^</i></p>
 <!-- <div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kztera&theme=radical" alt="kztera's Streak Stats" width="400px" display="inline-block">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kztera&theme=radical" alt="kztera's Streak Stats" width="400px" display="inline-block"> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kztera&layout=compact&theme=radical" alt="Top Langs" width="400px" display="inline-block">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kztera&layout=compact&theme=radical" alt="Top Langs" width="400px" display="inline-block">
 </div> -->
+
+###### Soure Image
+
+-  [Ancient tako ecological survey 3](https://www.pixiv.net/en/artworks/94506059) by [allwifeman](https://www.pixiv.net/en/users/7129780)
