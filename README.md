@@ -19,9 +19,13 @@ My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Compute
 
 <a href="https://open.spotify.com/playlist/6hyAjJOdQf5xbhQl3a3Kff?si=dc332f50a11744ab"><img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=10&width=400"></a>
 
+**Stacks**
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 **Currently learning**
 
-![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Future learning**
 
