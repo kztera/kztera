@@ -61,7 +61,6 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 ![Profile views](https://gpvc.arturio.dev/kztera)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <!-- <div>
