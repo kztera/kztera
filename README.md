@@ -56,9 +56,7 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 
-## How about some stats?
-
-![Profile views](https://gpvc.arturio.dev/kztera)
+### 📊 Dumb Time Statistics
 
 <!--START_SECTION:waka-->
 
@@ -74,6 +72,8 @@ Kotlin     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+![Profile views](https://gpvc.arturio.dev/kztera)
 
 <!-- <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kztera&theme=radical" alt="kztera's Streak Stats" width="400px" display="inline-block"> -->
