@@ -60,7 +60,10 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 
 ![Profile views](https://gpvc.arturio.dev/kztera)
 
-<p><i>I hope to be able to update this soon when things are more ^^</i></p>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <!-- <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kztera&theme=radical" alt="kztera's Streak Stats" width="400px" display="inline-block"> -->
 
