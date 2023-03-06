@@ -1,4 +1,4 @@
-![A Cute Cat](https://raw.githubusercontent.com/kztera/kztera/main/bg.jpg)
+![A Cute Cat](asset/bg.jpg)
 
 <p align="center"><i>"A problem's not a problem as long as nobody sees it as one." - Hikigaya Hachiman. </i></p>
 
