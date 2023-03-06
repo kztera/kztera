@@ -62,6 +62,12 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 
 <!--START_SECTION:waka-->
 
+```text
+Markdown   18 mins         ████████████████░░░░░░░░░   64.55 %
+YAML       6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+XML        4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
+Kotlin     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+```
 
 <!--END_SECTION:waka-->
 
