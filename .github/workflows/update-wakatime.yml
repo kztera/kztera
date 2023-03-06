@@ -20,9 +20,10 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY } 
+          SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
           SHOW_TIME: true
+          SHOW_MASKED_TIME: true
           LANG_COUNT: 10
-          SHOW_MASKED_TIME: true          
