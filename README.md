@@ -6,9 +6,9 @@
 
 ## Hi everyone (^^ゞ
 
-My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Computer Science. If nothing changes, I hope to be able to graduate as quickly as possible. Unfortunately, the keyboards in the 7th floor Computer room make me feel sick <img src="https://raw.githubusercontent.com/kztera/kztera/main/teri-smack.gif" width=50px>. I hope the school will replace them soon. I can't wait to get rid of these terrible keyboards.
+My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Computer Science. If nothing changes, I hope to be able to graduate as quickly as possible. Unfortunately, the keyboards in the 7th floor Computer room make me feel sick <img src="https://raw.githubusercontent.com/kztera/kztera/main/asset/teri-smack.gif" width=50px>. I hope the school will replace them soon. I can't wait to get rid of these terrible keyboards.
 
-## <img src="https://raw.githubusercontent.com/kztera/kztera/main/nyan.gif" width=50px> About me
+## <img src="https://raw.githubusercontent.com/kztera/kztera/main/asset/nyan.gif" width=50px> About me
 
 -  👨‍💻 **Full name:** Nguyen Huu Khoa
 -  🎂 **Birthday:** xx . xx . 2003
@@ -35,7 +35,7 @@ My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Compute
 
 Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I can develop app on all platforms (Android, iOS, Web) in the future.
 
-### <img src="https://raw.githubusercontent.com/kztera/kztera/main/cat_fly.gif" width="50px"> More information about me
+### <img src="https://raw.githubusercontent.com/kztera/kztera/main/asset/cat_fly.gif" width="50px"> More information about me
 
 -  ⚡ I am quite interested in playing **Genshin Impact** (_UID：837979005_) and **watching anime** (especially Oregairu). Contact me if you want to play together <img src="https://raw.githubusercontent.com/kr4zym3nvn/kr4zym3nvn/master/images/Icon_Emoji_085_Yanfei_No_problem.webp" width="50"/>. Here is my [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=158107559) profile.
 -  💬 Ask me about anything in tab [Discussions](https://github.com/kztera/kztera/discussions)
