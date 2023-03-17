@@ -62,7 +62,7 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 15 March 2023
+From: 05 March 2023 - To: 16 March 2023
 
 Total Time: 28 hrs 48 mins
 
