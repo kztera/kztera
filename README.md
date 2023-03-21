@@ -45,7 +45,7 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 ## 💻 Gears I use
 
 -  **Laptop**: Lenovo Thinkbook 14 G3 ACL (Ryzen 5 5600U, 16GB RAM, 512GB SSD)
--  **Phone**: Xiaomi Redmi Note 10S (8GB RAM, 128GB ROM)
+-  **Phone**: Xiaomi Redmi K40 5G (Snapdragon 870, 8GB RAM, 128GB ROM)
 -  **Keyboard**: Nexttime 75 (Akko Jelly White Switch)
 -  **Mouse**: I wish I had one 😭
 -  **Monitor**: Samsung SyncMaster E1720NRX 17″ (1600×900) (I know it's small but it's all I can afford (╯‵□′)╯︵┻━┻)
