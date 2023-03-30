@@ -78,6 +78,8 @@ Other        28 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+_The chart above is just my time working with languages, the numbers do not represent my proficiency in them._
+
 ![Profile views](https://gpvc.arturio.dev/kztera)
 
 <!-- <div>
