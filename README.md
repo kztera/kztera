@@ -37,7 +37,7 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 
 ### <img src="https://raw.githubusercontent.com/kztera/kztera/main/asset/cat_fly.gif" width="50px"> More information about me
 
--  ⚡ I am quite interested in playing **Genshin Impact** (_UID：837979005_) and **watching anime** (especially Oregairu). Contact me if you want to play together <img src="https://raw.githubusercontent.com/kr4zym3nvn/kr4zym3nvn/master/images/Icon_Emoji_085_Yanfei_No_problem.webp" width="50"/>. Here is my [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=158107559) profile.
+-  ⚡ I am quite interested in playing **Genshin Impact** (_UID：837979005_) and **watching anime** (especially Oregairu). Contact me if you want to play together. Here is my [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=158107559) profile.
 -  💬 Ask me about anything in tab [Discussions](https://github.com/kztera/kztera/discussions)
 -  🎶 I love listening to music so much. I can do it all day. My favorite Bands are Vasire, boy pablo, Wallows, Men I Trust, Dayglow, Fiji Blue, Far Caspian, PUBLIC and many more. It's hard to imagine one day I'll hear them sing live in real life xD. You can listen some of recent played songs below.
 
