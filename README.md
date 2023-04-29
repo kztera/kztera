@@ -61,21 +61,21 @@ Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I ca
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 26 April 2023
+From: 05 March 2023 - To: 27 April 2023
 
-Total Time: 121 hrs 35 mins
+Total Time: 123 hrs 36 mins
 
-C            29 hrs 20 mins  ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-JavaScript   29 hrs 20 mins  ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Python       26 hrs 59 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-Markdown     13 hrs 7 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Bash         5 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Dart         5 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-JSON         2 hrs 36 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-HTML         2 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Kotlin       1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-TypeScript   1 hr 21 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-CSS          44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+JavaScript   29 hrs 39 mins  ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+C            29 hrs 20 mins  ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+Python       28 hrs 29 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+Markdown     13 hrs 7 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+Bash         5 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Dart         5 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+JSON         2 hrs 36 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+HTML         2 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Kotlin       1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+TypeScript   1 hr 21 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+CSS          44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
