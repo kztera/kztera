@@ -33,7 +33,7 @@ My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Compute
 
 ## Plans
 
-Become skilled in Kotlin and Flutter, and then start learning Swift. I hope I can develop app on all platforms (Android, iOS, Web) in the future.
+Become skilled in Dart and Flutter, and then start learning Js and React Native. I hope I can develop app on all platforms (Android, iOS, Web) in the future.
 
 ### <img src="https://raw.githubusercontent.com/kztera/kztera/main/asset/cat_fly.gif" width="50px"> More information about me
 
