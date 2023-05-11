@@ -7,12 +7,13 @@
 
 My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Computer Science. If nothing changes, I hope to be able to graduate as quickly as possible. Unfortunately, the keyboards in the 7th floor Computer room make me feel sick <img src="https://raw.githubusercontent.com/kztera/kztera/main/asset/teri-smack.gif" width=50px>. I hope the school will replace them soon. I can't wait to get rid of these terrible keyboards.
 
-## <img src="https://raw.githubusercontent.com/kztera/kztera/main/asset/nyan.gif" width=50px> About me
+## About me
 
 -  👨‍💻 **Full name:** Nguyen Huu Khoa
 -  🎂 **Birthday:** xx . xx . 2003
 -  🌏 **Nationality:** Vietnamese
 -  🏫 **University:** Thang Long University
+-  💬 Ask me about anything in tab [Discussions](https://github.com/kztera/kztera/discussions)
 
 ## <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width=50px> Programing information
 
@@ -34,10 +35,8 @@ My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Compute
 
 Become skilled in Dart and Flutter, and then start learning Js and React Native. I hope I can develop app on all platforms (Android, iOS, Web) in the future.
 
-### <img src="https://raw.githubusercontent.com/kztera/kztera/main/asset/cat_fly.gif" width="50px"> More information about me
+### More information about me
 
--  ⚡ I am quite interested in playing **Genshin Impact** (_UID：837979005_) and **watching anime** (especially Oregairu). Contact me if you want to play together. Here is my [Hoyolab](https://www.hoyolab.com/accountCenter/postList?id=158107559) profile.
--  💬 Ask me about anything in tab [Discussions](https://github.com/kztera/kztera/discussions)
 -  🎶 I love listening to music so much. I can do it all day. My favorite Bands are Vasire, boy pablo, Wallows, Men I Trust, Dayglow, Fiji Blue, Far Caspian, PUBLIC and many more. It's hard to imagine one day I'll hear them sing live in real life xD. You can listen some of recent played songs below.
 
 ## 💻 Gears I use
@@ -79,8 +78,6 @@ TypeScript   1 hr 21 mins    ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 _The chart above is just my time working with languages, the numbers do not represent my proficiency in them._
-
-![Profile views](https://gpvc.arturio.dev/kztera)
 
 <!-- <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kztera&theme=radical" alt="kztera's Streak Stats" width="400px" display="inline-block"> -->
