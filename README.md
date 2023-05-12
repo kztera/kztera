@@ -17,7 +17,7 @@ My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Compute
 
 ## <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width=50px> Programing information
 
-<a href="https://open.spotify.com/playlist/6hyAjJOdQf5xbhQl3a3Kff?si=dc332f50a11744ab"><img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=10&width=400"></a>
+<a href="https://open.spotify.com/playlist/6hyAjJOdQf5xbhQl3a3Kff?si=dc332f50a11744ab"><img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=9&width=400"></a>
 
 **Stacks**
 
