@@ -33,11 +33,11 @@ My name is Nguyen Khoa (he/him), and I'm pursuing a Bachelor's degree in Compute
 
 ## Plans
 
-Become skilled in Dart and Flutter, and then start learning Js and React Native. I hope I can develop app on all platforms (Android, iOS, Web) in the future.
+Become skilled in Dart and Flutter, and then start learning JavaScript and React Native. I hope I can develop app on all platforms (Android, iOS, Web) in the future.
 
 ### More information about me
 
--  🎶 I love listening to music so much. I can do it all day. My favorite Bands are Vasire, boy pablo, Wallows, Men I Trust, Dayglow, Fiji Blue, Far Caspian, PUBLIC and many more. It's hard to imagine one day I'll hear them sing live in real life xD. You can listen some of recent played songs below.
+🎶 I love listening to music so much. I can do it all day. My favorite Bands are Vasire, boy pablo, Wallows, Men I Trust, Dayglow, Fiji Blue, Far Caspian, PUBLIC and many more. It's hard to imagine one day I'll hear them sing live in real life xD. You can listen some of recent played songs below.
 
 ## 💻 Gears I use
 
