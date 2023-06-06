@@ -47,13 +47,6 @@ Become skilled in Dart and Flutter, and then start learning JavaScript and React
 -  **Mouse**: I wish I had one 😭
 -  **Monitor**: Samsung SyncMaster E1720NRX 17″ (1600×900) (I know it's small but it's all I can afford (╯‵□′)╯︵┻━┻)
 
-## Social Networks
-
-<div>
-<a href="https://dsc.bio/JetEra"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://open.spotify.com/user/31v5dhuuhzkkvv4cqimaphde2x6i">
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</div>
-
 ### 📊 Dumb Time Statistics
 
 <!--START_SECTION:waka-->
@@ -79,11 +72,12 @@ TypeScript   1 hr 21 mins    ▒░░░░░░░░░░░░░░░░
 
 _The chart above is just my time working with languages, the numbers do not represent my proficiency in them._
 
-<!-- <div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kztera&theme=radical" alt="kztera's Streak Stats" width="400px" display="inline-block"> -->
+## Get close to me (～￣▽￣)～
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kztera&layout=compact&theme=radical" alt="Top Langs" width="400px" display="inline-block">
-</div> -->
+<div>
+<a href="https://dsc.bio/JetEra"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://open.spotify.com/user/31v5dhuuhzkkvv4cqimaphde2x6i">
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</div>
 
 ###### Source Art
 
