@@ -47,7 +47,7 @@ Become skilled in Dart and Flutter, and then start learning JavaScript and React
 -  **Mouse**: I wish I had one 😭
 -  **Monitor**: Samsung SyncMaster E1720NRX 17″ (1600×900) (I know it's small but it's all I can afford (╯‵□′)╯︵┻━┻)
 
-### 📊 Dumb Time Statistics
+## 📊 Dumb Time Statistics
 
 <!--START_SECTION:waka-->
 
