@@ -52,19 +52,19 @@ Become skilled in Dart and Flutter, and then start learning JavaScript and React
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2023 - To: 18 June 2023
+From: 05 March 2023 - To: 19 June 2023
 
-Total Time: 209 hrs 53 mins
+Total Time: 211 hrs 8 mins
 
-Python       68 hrs 39 mins  ████████▒░░░░░░░░░░░░░░░░   32.71 %
-JavaScript   45 hrs          █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
-Markdown     33 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-C            29 hrs 20 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Dart         13 hrs 17 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Bash         5 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-JSON         3 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-HTML         2 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Kotlin       1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Python       69 hrs 52 mins  ████████▒░░░░░░░░░░░░░░░░   33.09 %
+JavaScript   45 hrs          █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
+Markdown     33 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+C            29 hrs 20 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+Dart         13 hrs 17 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+Bash         5 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+JSON         3 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+HTML         2 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Kotlin       1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 TypeScript   1 hr 21 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
