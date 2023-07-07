@@ -52,7 +52,7 @@ Become skilled in Dart and Flutter, and then start learning JavaScript and React
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2023 - To: 04 July 2023
+From: 05 March 2023 - To: 05 July 2023
 
 Total Time: 224 hrs 12 mins
 
