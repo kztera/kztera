@@ -3,7 +3,7 @@
 
 ---
 
-<a href="https://open.spotify.com/playlist/6hyAjJOdQf5xbhQl3a3Kff?si=dc332f50a11744ab"><img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=9&width=400"></a>
+<a href="https://open.spotify.com/playlist/6hyAjJOdQf5xbhQl3a3Kff?si=dc332f50a11744ab"><img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=3&width=350"></a>
 
 
 ### About me
