@@ -24,6 +24,24 @@ Lenovo Thinkbook 14 G3 ACL | AMD Ryzen 5 5600U | Xiaomi Redmi K40 5G | Nexttime 
 ## Time of suffering
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 05 March 2023 - To: 27 July 2023
+
+Total Time: 301 hrs 8 mins
+
+JavaScript   82 hrs 18 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
+Python       72 hrs 17 mins  ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+Dart         45 hrs 20 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+Markdown     37 hrs 14 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+C            29 hrs 20 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+TypeScript   8 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Bash         6 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+JSON         4 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+HTML         2 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Other        2 hrs 40 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+```
+
 <!--END_SECTION:waka-->
 
 ###### Source Art
