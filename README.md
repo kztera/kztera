@@ -21,6 +21,11 @@ Lenovo Thinkbook 14 G3 ACL | AMD Ryzen 5 5600U | Xiaomi Redmi K40 5G | Nexttime 
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 
+## Time of suffering
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ###### Source Art
 
 -  [5 Centimeters Per Second](https://wallhaven.cc/w/nrowq1)
