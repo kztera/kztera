@@ -26,7 +26,7 @@ Lenovo Thinkbook 14 G3 ACL | AMD Ryzen 5 5600U | Xiaomi Redmi K40 5G | Nexttime 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2023 - To: 29 July 2023
+From: 05 March 2023 - To: 30 July 2023
 
 Total Time: 306 hrs 46 mins
 
