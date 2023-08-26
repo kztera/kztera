@@ -26,15 +26,15 @@ Lenovo Thinkbook 14 G3 ACL | AMD Ryzen 5 5600U | Xiaomi Redmi K40 5G | Nexttime 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2023 - To: 23 August 2023
+From: 05 March 2023 - To: 24 August 2023
 
-Total Time: 413 hrs 53 mins
+Total Time: 419 hrs 15 mins
 
-TypeScript   103 hrs 52 mins ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
-JavaScript   90 hrs 50 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
-Python       72 hrs 17 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
-Dart         47 hrs 40 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
-Markdown     39 hrs 50 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+TypeScript   108 hrs 48 mins ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
+JavaScript   91 hrs 16 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
+Python       72 hrs 17 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+Dart         47 hrs 40 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+Markdown     39 hrs 50 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
 ```
 
 <!--END_SECTION:waka-->
