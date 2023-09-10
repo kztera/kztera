@@ -1,27 +1,42 @@
-![header](asset/header.jpg)
+<p align="center"><img src="asset/header.jpg" width="80%"/></p>
 <p align="center"><i>“I probably just want to leave a trace of myself behind in this world.” ― Makoto Shinkai, 5 Centimeters per Second</i></p>
 
 ---
 
-<a href="https://open.spotify.com/playlist/6hyAjJOdQf5xbhQl3a3Kff?si=dc332f50a11744ab"><img align="right" display="inline-block" vertical-align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31v5dhuuhzkkvv4cqimaphde2x6i&count=5&width=350"></a>
+<details>
+  <summary>📃 My Resume</summary>
+
+### Education
+
+- 📖 **Computer Science**\
+📆 10/2021 - present\
+📍 **Thang Long University** - Hoang Mai, Hanoi, Vietnam
+
+### Experience
+
+<img align="right" src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" width="7%"/>
+<img align="right" src="https://img.shields.io/badge/Ant_Design-ant?style=flat&logo=antdesign&logoColor=white&color=%230170FE"/>
+<img align="right" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
 
 
-### About me
+- 👨‍💻 **Frontend Web Intern**\
+📆 07/2023 - present\
+📍 **MQ ICT Solutions** - Hoang Mai, Hanoi, Vietnam
+  
+<!--
+## Skills
 
-🎶 I love listening to music so much. I can do it all day. My favorite Bands are Vasire, boy pablo, Wallows, Men I Trust, Dayglow, Fiji Blue, Far Caspian, PUBLIC and many more. It's hard to imagine one day I'll hear them sing live in real life xD. You can listen some of recent played songs below.
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 
-### My Gears
 
-Lenovo Thinkbook 14 G3 ACL | AMD Ryzen 5 5600U | Xiaomi Redmi K40 5G | Nexttime 75 
+**Programming**
 
-## Get close to me (～￣▽￣)～
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+-->
 
-<div>
-<a href="https://dsc.bio/JetEra"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://open.spotify.com/user/31v5dhuuhzkkvv4cqimaphde2x6i">
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</div>
+</details>
 
-## Time of suffering
+### Time of suffering
 
 <!--START_SECTION:waka-->
 
