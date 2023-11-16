@@ -14,8 +14,8 @@
 
 ### Experience
 
+<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Ant_Design-ant?style=flat&logo=antdesign&logoColor=white&color=%230170FE"/>
 <img align="right" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
 
 
