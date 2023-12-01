@@ -25,6 +25,8 @@
 📍 **MQ ICT Solutions** - Hoang Mai, Hanoi, Vietnam
 </details>
 
+### 📊 All time development breakdown
+
 <!--START_SECTION:waka-->
 
 ```txt
