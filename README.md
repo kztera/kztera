@@ -2,7 +2,7 @@
 <p align="center"><i>“I probably just want to leave a trace of myself behind in this world.” ― Makoto Shinkai, 5 Centimeters per Second</i></p>
 
 ---
-
+<!--
 <details>
   <summary>📃 My Resume</summary>
 
@@ -23,7 +23,8 @@
 - 👨‍💻 **Frontend Web Intern**\
 📆 07/2023 - present\
 📍 **MQ ICT Solutions** - Hoang Mai, Hanoi, Vietnam
-</details>
+</details> 
+-->
 
 ### 📊 All time development breakdown
 
