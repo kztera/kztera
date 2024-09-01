@@ -31,15 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2023 - To: 30 August 2024
+From: 05 March 2023 - To: 31 August 2024
 
-Total Time: 1,595 hrs 39 mins
+Total Time: 1,597 hrs 14 mins
 
-TypeScript        965 hrs 51 mins ███████████████░░░░░░░░░░   60.53 %
-JavaScript        160 hrs 20 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Python            124 hrs 7 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Dart              107 hrs 41 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Markdown          61 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+TypeScript        965 hrs 51 mins ███████████████░░░░░░░░░░   60.47 %
+JavaScript        160 hrs 20 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Python            125 hrs 42 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Dart              107 hrs 41 mins █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Markdown          61 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
