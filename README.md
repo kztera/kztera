@@ -4,6 +4,7 @@
     <samp>
       techstack
       <br>
+      <br>
       <b>languages:</b> javascript/typescript
       <br>
       <br>
@@ -13,9 +14,11 @@
       <b>databases:</b> redis, postgresql
       <br>
       <br>
-      image by <a href="https://www.pixiv.net/en/users/33558705">@画师JW</a>
+      <b>quote inspiration:</b> "I probably just want to leave a trace of myself behind in this world." ― Makoto Shinkai, 5 Centimeters per Second
       <br>
-      quote inspiration: "I probably just want to leave a trace of myself behind in this world." ― Makoto Shinkai, 5 Centimeters per Second
+      <br>
+      <br>
+      image by <a href="https://www.pixiv.net/en/users/33558705">@画师JW</a>
     </samp>
   </p>
 </p>
