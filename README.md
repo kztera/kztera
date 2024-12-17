@@ -5,6 +5,7 @@
       techstack
       <br>
       <br>
+      <br>
       <b>languages:</b> javascript/typescript, dart, python
       <br>
       <br>
@@ -17,7 +18,7 @@
       <br>
       <br>
       <br>
-      image by <a href="https://www.pixiv.net/en/users/33558705">@画师JW</a>
+      art by <a href="https://www.pixiv.net/en/users/33558705">@画师JW</a>
       <br>
       <br>
       <br>
